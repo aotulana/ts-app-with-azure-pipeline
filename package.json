@@ -1,0 +1,20 @@
+{
+  "name": "ts-app-with-azure-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.5"
+  }
+}
